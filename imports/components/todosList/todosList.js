@@ -15,7 +15,7 @@ class TodosListCtrl {
   }
 }
 
-...some lines skipped...
+//...some lines skipped...
 ])
   .component('todosList', {
     templateUrl: 'imports/components/todosList/todosList.html',
