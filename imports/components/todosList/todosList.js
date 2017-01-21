@@ -35,6 +35,7 @@ class TodosListCtrl {
       },
       currentUser() {
         return Meteor.user();
+      }
     })
   }
 
